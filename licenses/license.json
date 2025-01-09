@@ -1,0 +1,9 @@
+{
+  "data": {
+    "user": "john.doe@example.com",
+    "licenseType": "premium",
+    "issuedAt": "2025-01-09T10:19:58.567Z",
+    "validUntil": "2025-02-08T10:19:58.567Z"
+  },
+  "signature": "IkPu/nq54CyXXrn7ZqDhVRPTb2BG7F+j+DX5caNTi5p4vmiP8VHB8kHS/z2WUaO1n3CXP/MNIALRniZmE+vx0/4q4hyWhP3s/CV8bpRhFI8XaNVrq7nS8otIYUmE3JmMSwvXkkw6sLEtH1EnActK/dxotJCE8+yuiUT/H4MKx9lKGSKIvhrM/OwvQ2X44BlvTm2u3tEO9+s+zntXckvo8NtVfbDcHXk8y7M/Kp2wswgW7oX5e4/BJAtUJstva1HHwPepadBBAwh0dq1T1M2EsXjahHHR9H1LO9Ry06bdEfE4204QX2QbBe4lKZsBYSSnL+E202fR1YHSgCFentQ/Xw=="
+}
